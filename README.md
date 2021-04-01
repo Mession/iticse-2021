@@ -1,5 +1,3 @@
-# iticse-2021
-
 This is the repository for additional materials related to the ITiCSE 2021 article [Does the Early Bird Catch the Worm? Earliness of Students' Work and its Relationship with Course Outcomes](https://doi.org/10.1145/3430665.3456383).
 
 **ACM Reference Format**:
